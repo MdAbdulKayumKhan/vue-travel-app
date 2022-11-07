@@ -56,8 +56,8 @@
         
         
         <li class="text-white hover:text-indigo-400"><RouterLink to="/">Home</RouterLink> </li>
-        <li class="text-black hover:text-indigo-400"><RouterLink to="/about">About</RouterLink> </li>
-        <li class="text-black hover:text-indigo-400"><RouterLink to="/hello">Hello</RouterLink> </li>
+        <li class="text-white hover:text-indigo-400"><RouterLink to="/about">About</RouterLink> </li>
+        <li class="text-white hover:text-indigo-400"><RouterLink to="/hello">Hello</RouterLink> </li>
         <li class="text-white hover:text-indigo-400"><RouterLink to="/brazil">Brazil</RouterLink></li>
       </ul>
     </nav>
